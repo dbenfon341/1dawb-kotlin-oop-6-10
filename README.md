@@ -32,7 +32,6 @@ La clase Domicilio tendrá un método llamado dirCompleta()que retornará el dom
 /**
  * Clase RepositorioCompras
  * @constructor Crea un repositorio de compras
-```
  */
 ```
 * La clase RepositorioCompras tendrá un método para agregar una compra al repositorio y un método domicilios para retornar los domicilios de cada cliente al cual se le debe enviar una factura de compra. Esta función retorna una estructura que contenga cada domicilio una sola vez.
