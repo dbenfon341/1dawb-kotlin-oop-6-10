@@ -1,7 +1,7 @@
 # Ejercicio 4.6
-## Realizar el ejercicio 1 de Conjuntos de los "Ejercicios básicos con Kotlin" (Ejercicio 3.3.1) orientado a objetos.
+Realizar el ejercicio 1 de Conjuntos de los "Ejercicios básicos con Kotlin" (Ejercicio 3.3.1) orientado a objetos.
 
-Te proporciono algunas pistas de una posible solución:
+* Te proporciono algunas pistas de una posible solución:
 
 ```
 /**
