@@ -21,7 +21,11 @@ Realizar el ejercicio 1 de Conjuntos de los "Ejercicios básicos con Kotlin" (Ej
  */
 ```
 ```
-/** * Clase Domicilio * @param calle calle del domicilio * @param numero numero del domicilio * @constructor Crea un domicilio con calle y numero */
+/**
+ * Clase Domicilio * @param calle calle del domicilio
+ * @param numero numero del domicilio
+ * @constructor Crea un domicilio con calle y numero
+ */
 ```
 La clase Domicilio tendrá un método llamado dirCompleta()que retornará el domicilio completo con la calle y el número.
 
